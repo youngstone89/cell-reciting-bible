@@ -3,7 +3,6 @@ layout: default
 title: 새로운 삶
 parent: 주제별 성경암송
 nav_order: 1
-permalink: /docs/new-life
 ---
 
 # 새로운 삶
