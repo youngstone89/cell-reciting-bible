@@ -22,78 +22,83 @@ nav_order: 1
 > **`그런즉 누구든지 그리스도 안에 있으면 새로운 피조물이라. 
 > 이전 것은 지나갔으니 보라 새것이 되었도다.`**
 
+&nbsp;
+### A-2 갈라디아서 2:20
+> **`내가 그리스도와 함께 십자가에 못박혔나니 그런즉 이제는 내가 사는 것이 아니요. 오직 내안에 그리스도께서 사시는 것이라. 
+> 이제 내가 육체가운데 사는 것은 나를 사랑하사 나를 위하여 자기자신을 버리신 하나님의 아들을 믿는 믿음 안에서 사는 것이라. 
+> `**
+
 
 ---
 
 ## 그리스도께 순종
+### A-3 로마서 12:1
+> **`그러므로 형제들아 내가 하나님의 모든 자비하심으로 너희를 권하노니, 너희 몸을 하나님이 기뻐하시는 거룩한 산 제물로 드리라. 
+> 이는 너희가 드릴 영적 예배니라. `**
 
-Just the Docs uses a responsive type scale that shifts depending on the viewport size.
+&nbsp;
 
-| Selector              | Small screen size `font-size`    | Large screen size `font-size` |
-|:----------------------|:---------------------------------|:------------------------------|
-| `h1`, `.text-alpha`   | 32px                             | 36px                          |
-| `h2`, `.text-beta`    | 18px                             | 24px                          |
-| `h3`, `.text-gamma`   | 16px                             | 18px                          |
-| `h4`, `.text-delta`   | 14px                             | 16px                          |
-| `h5`, `.text-epsilon` | 16px                             | 18px                          |
-| `h6`, `.text-zeta`    | 18px                             | 24px                          |
-| `body`                | 14px                             | 16px                          |
+### A-4 요한복음 14:21
+> **`나의 계명을 지키는 자라야 나를 사랑하는 자니, 나를 사랑하는 자는 내 아버지께 사랑을 받을 것이요. 나도 그를 사랑하여 그에게 나를 나타내리라. 
+> `**
 
 ---
 
 ## 말씀
 
-Headings are rendered like this:
+### A-5 디모데후서 3:16
+> **`모든 성경은 하나님의 감동으로 된것으로 교훈과 책망과 바르게 함과 의로 교육하기에 유익하니. 
+> `**
 
-<div class="code-example">
-<h1>Heading 1</h1>
-<h2>Heading 2</h2>
-<h3>Heading 3</h3>
-<h4>Heading 4</h4>
-<h5>Heading 5</h5>
-<h6>Heading 6</h6>
-</div>
-```markdown
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
-```
+&nbsp;
+
+### A-6 여호수아 1:8
+> **`이 율법책을 네 입에서 떠나지 말게하며 주야로 그것을 묵상하여 그안에 기록된대로 다 지켜 행하라. 
+> `**
+
 
 ---
 
 ## 기도
+### A-7 요한복음 15:7
+> **`너희가 내안에 거하고 내 말이 너희안에 거하면 무엇이든지 원하는 대로 구하라 그리하면 이루리라. 
+> `**
 
-Default body text is rendered like this:
+&nbsp;
 
-<div class="code-example" markdown="1">
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</div>
-```markdown
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-```
+### A-8 빌립보서 4:6-7
+> **`아무것도 염려하지 말고 다만 모든일에 기도와 간구로 너희구할 것을 감사함으로 하나님께 아뢰라. 
+> 그리하면 모든 지각에 뛰어난 하나님의 평강이 그리스도 예수 안에서 너희 마음과 생각을 지키시리라. 
+> `**
+
 
 ---
 
 ## 교제
 
-<div class="code-example" markdown="1">
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+### A-9 마태복음 18:20
+> **`두 세사람이 내 이름으로 모인 곳에는 나도 그들 중에 있느니라. 
+> `**
 
-[Link to another page](another-page).
-</div>
-```markdown
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+&nbsp;
 
-[Link to another page](another-page).
-```
+### A-10 히브리서 10:24-25
+> **`서로 돌아보아 사랑과 선행을 격려하며 모이기를 폐하는 어떤 사람들의 습관과 같이하지 말고 오직 권하여 그날이 가까움을 볼수록 더욱 그리하자. 
+> `**
 
 ---
 
 ## 증거
 
-There are a number of specific typographic CSS classes that allow you to override default styling for font size, font weight, line height, and capitalization.
+### A-11 마태복음 4:19
+> **`말씀하시되 나를 따라오라. 내가 너희를 사람을 낚는 어부가 되게 하리라 하시니. 
+> `**
 
-[View typography utilities]({{ site.baseurl }}{% link docs/utilities/utilities.md %}#typography){: .btn .btn-outline }
+
+&nbsp;
+
+### A-12 로마서 1:16
+> **`내가 복음을 부끄러워 하지 아니 하노니, 이 복음은 모든 믿는자에게 구원을 주시는 하나님의 능력이 됨이라. 
+> 먼저는 유대인에게  , 그리고 헬라인에게 로 다. 
+> `**
+

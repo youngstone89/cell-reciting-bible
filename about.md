@@ -1,6 +1,8 @@
 ---
 layout: page
-title: About
+title: 개요
+nav_order: 1
+has_children: false
 permalink: /about/
 ---
 

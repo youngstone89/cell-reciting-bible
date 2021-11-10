@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 주제별 성경암송
-nav_order: 1
+nav_order: 2
 has_children: true
 permalink: /docs/verses-by-topic
 ---
